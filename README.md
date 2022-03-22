@@ -3,7 +3,7 @@ Desafio de 7 dias de código.
 
 
 ### Cada dia um desafio a ser vencido.
-    Os códigos serão disponibilizados aqui no GitHub e toda ajuda é bem-vinda.
+    Os códigos serão compartilhados aqui no GitHub e toda ajuda é bem-vinda.
 
 <hr>
 
