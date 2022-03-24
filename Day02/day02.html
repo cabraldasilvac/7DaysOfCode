@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="script.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <title>challengeDay02 </title>
+</head>
+
+<body>
+    <container class="container">
+        <header>
+            <h1> Formulário de Pesquisa</h1>
+        </header>
+        <div class="perguntas"> <label> Qual é o seu nome? </label> <br><br>
+            <input type="text" id="nome" /> <br><br>
+            <label> Qual é a sua idade? </label> <br><br>
+            <input type="number" id="idade" /><br><br>
+            <label> Qual linguagem de programação você está estudando?</label> <br><br>
+            <input type="text" id="linguagem" /> <br><br>
+            <button type="submit" onclick="enviar()">Enviar</button>
+        </div>
+        <div>
+            <h2 class="mensagem" id="mensagem">
+            </h2>
+        </div>
+        <div id="pergunta"></div><br>
+        <div class="resposta-sn" id="resposta"></div>
+    </container>
+
+    <footer>
+        <p class="copyright">© Copyright WMS - 2022</p>
+    </footer>
+</body>
+
+</html>
