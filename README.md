@@ -11,13 +11,13 @@
 
 
 ## Day 2
-#### ----------------
+#### Lógica JS 2/7: Variáveis
 
 <hr>
 
 
 ## Day 3
-#### ----------------
+#### Lógica JS 3/7: Fluxo de decisão
 
 <hr>
 
