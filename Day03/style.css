@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap');
+@media screen and (min-width: 900px) {
+    article {
+        padding: 1rem 3rem;
+    }
+}
+
+* {
+    font-family: 'Nunito Sans', sans-serif
+}
+
+body {
+    font-family: "Roboto Mono", monospace;
+    min-height: 600px;
+    /* background-image: url("https://www.alura.com.br/assets/img/imersoes/dev-2021/dia-03-mentalista.png"); */
+    background: linear-gradient(236.85deg, #041832 27.26%, #3468a7 96.03%);
+    background-size: cover;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+}
+
+header {
+    background: linear-gradient(236.85deg, #093268 27.26%, #3468a7 96.03%);
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+    color: #fefefe;
+    padding: 1em 0;
+}
+
+.title {
+    color: rgb(225, 225, 225);
+    margin: 15px;
+    align-items: center;
+    border-bottom: 2px solid #8207ed;
+}
+
+.page-subtitle {
+    color: #ffffff;
+    margin-top: 16px;
+}
+
+p {
+    color: #fefefe;
+    font-size: 18px;
+}
+
+label {
+    color: #fefefe;
+    font-size: 18px;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+}
+
+main form {
+    margin: 32px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+main form p {
+    margin: 8px;
+}
+
+main form button {
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 20px;
+    align-self: flex-start;
+    margin: 16px;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 16px;
+}
+
+main form input {
+    margin: 16px;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 16px;
+}
+
+#mensagem {
+    align-self: center;
+    margin: 0px 30px;
+    font-size: 16px;
+}
+
+footer {
+    background: linear-gradient(90deg, #0378f5 0%, #0d7ddf 14.32%, #0d7ddf 84.65%, #4d9aed 100%);
+    font-family: monospace;
+    position: absolute;
+    bottom: 2%;
+    width: 100%;
+}
+
+.copyright {
+    text-align: center;
+    color: #fefefe;
+    font-size: 14px;
+    margin: 20px 0;
+}
