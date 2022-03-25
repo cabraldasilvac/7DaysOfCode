@@ -1,6 +1,5 @@
-# 7DaysOfCode - Lógica JS 3/7: Fluxo de decisão
-
-
+# 7DaysOfCode 
+##  Lógica JS 3/7: Fluxo de decisão
 
 
 Seu desafio de hoje é criar os destinos possíveis de um jogo, em que o usuário consiga escolher:
