@@ -1,4 +1,5 @@
 # ✅  7DaysOfCode
+
 [![GitHub license](https://img.shields.io/github/license/cabraldasilvac/7DaysOfCode?style=plastic)](https://github.com/cabraldasilvac/7DaysOfCode/blob/main/LICENSE)
 
 #
@@ -19,7 +20,6 @@
 ## Day 1
 ### Lógica JS 1/7: Operações Booleanas
 
-
 #
 
 ## Day 2
@@ -35,14 +35,14 @@
 
 
 ## Day 4
-### ----------------
+### Lógica JS 4/7: Mais loops e randomização
 
 
 #
 
 
 ## Day 5
-### ----------------
+### Lógica JS 5/7: Arrays e coleções
 
 #
 
@@ -55,3 +55,7 @@
 ### ----------------
 
 #
+
+
+###  <span style="color:red">Todos os desafios foram enviados no e-mail e foram colados na  descrição de cada readme DIA.</span>.
+
