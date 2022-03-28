@@ -46,13 +46,14 @@
 
 #
 
+
 ## Day 6
-### ----------------
+### Lógica JS 6/7: 👩🏽‍💻 Remoção de Arrays
 
 #
 
 ## Day 7
-### ----------------
+### Lógica JS 7/7: Funções em Javascript
 
 #
 
