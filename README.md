@@ -57,5 +57,5 @@
 #
 
 
-###  <span style="color:red">Todos os desafios foram enviados no e-mail e foram colados na  descrição de cada readme DIA.</span>.
+###  <span style="color:red">Todos os desafios foram enviados no e-mail e foram colocados na  descrição de cada readme DIA.</span>.
 
