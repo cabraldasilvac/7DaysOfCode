@@ -11,9 +11,8 @@
 # 
 
 #### Cada dia um desafio a ser vencido.
-#### Os códigos serão compartilhados aqui no GitHub e toda ajuda é bem-vinda.
-
-#### Em cada pasta esta um README com a descrição dos desafios propostos.
+#### Os códigos serão compartilhados aqui no GitHub. 
+#### Toda ajuda é bem-vinda.
 
 # 
 
